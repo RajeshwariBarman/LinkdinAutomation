@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="113079" started-at="2020-05-09T12:50:01Z" finished-at="2020-05-09T12:51:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="113079" started-at="2020-05-09T12:50:01Z" finished-at="2020-05-09T12:51:54Z">
+      <class name="TestCase.TestCase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCase.TestCase@6093dd95]" name="setup" is-config="true" duration-ms="15128" started-at="2020-05-09T12:50:01Z" finished-at="2020-05-09T12:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="vaidations(java.lang.String, java.lang.String)[pri:0, instance:TestCase.TestCase@6093dd95]" name="vaidations" duration-ms="96667" started-at="2020-05-09T12:50:17Z" data-provider="signindetails" finished-at="2020-05-09T12:51:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raajeshwaribarman1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23011993]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vaidations -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:TestCase.TestCase@6093dd95]" name="tear" is-config="true" duration-ms="1237" started-at="2020-05-09T12:51:53Z" finished-at="2020-05-09T12:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- TestCase.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
