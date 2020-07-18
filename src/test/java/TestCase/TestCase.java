@@ -25,6 +25,7 @@ public class TestCase extends TestBase {
 	void setup()
 	{
 		initialization();
+		initialization();123
 	}
 	
 	
@@ -38,7 +39,7 @@ public class TestCase extends TestBase {
 		homepage = new HomePage();
 		jobpage = new JobPage();
 		
-		landingpage.clicksign();
+		landingpage.clicksign244();
 		loginpage.Signin(uname,pass);
 		homepage.validatehomepage();
 		homepage.search();
