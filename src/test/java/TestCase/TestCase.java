@@ -21,18 +21,17 @@ public class TestCase extends TestBase {
 	LoginPage loginpage;
 	
 	
-<<<<<<< Updated upstream
-=======
+
 	@BeforeMethod
 	void setup()
 	{
 		initialization();
 		//this is new xpath
 
-		// another mergring 
+		
 	}
 
->>>>>>> Stashed changes
+
 
 	
 	
