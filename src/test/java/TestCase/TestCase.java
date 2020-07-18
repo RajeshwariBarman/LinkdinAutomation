@@ -25,6 +25,7 @@ public class TestCase extends TestBase {
 	void setup()
 	{
 		initialization();
+		//name is test 
 
 		
 	}
