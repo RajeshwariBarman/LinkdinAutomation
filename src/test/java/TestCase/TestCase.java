@@ -39,7 +39,7 @@ public class TestCase extends TestBase {
 		homepage = new HomePage();
 		jobpage = new JobPage();
 		
-		landingpage.clicksign244();
+		landingpage.clicksignlocal();
 		loginpage.Signin(uname,pass);
 		homepage.validatehomepage();
 		homepage.search();
