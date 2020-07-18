@@ -34,7 +34,7 @@ public class TestCase extends TestBase {
 	@Test(dataProvider = "signindetails")
 	void vaidations(String uname , String pass) throws InterruptedException, AWTException
 	{
-		System.out.print("in the tes");
+		
 		landingpage = new LandingPage();
 		loginpage = new LoginPage();
 		homepage = new HomePage();
