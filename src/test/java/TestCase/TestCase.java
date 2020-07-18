@@ -25,10 +25,6 @@ public class TestCase extends TestBase {
 	void setup()
 	{
 		initialization();
-		//test123
-		//test122
-		//test122
-		//test122
 
 		
 	}
