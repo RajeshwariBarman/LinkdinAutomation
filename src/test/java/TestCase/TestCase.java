@@ -25,7 +25,7 @@ public class TestCase extends TestBase {
 	void setup()
 	{
 		initialization();
-		//this is old xpath 
+		//this is latest xpath in the github
 
 		
 	}
